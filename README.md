@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there, I'm Tiago 👋
 
-My name is Tiago Temporin and I'm Tech Lead at [E-goi](https://github.com/E-goi).
+Tech Lead at [E-goi](https://github.com/E-goi).
 
 ### 💻 Working on
 
