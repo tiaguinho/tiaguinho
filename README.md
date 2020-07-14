@@ -20,10 +20,6 @@ My name is Tiago Temporin and I'm Tech Lead at [E-goi](https://github.com/E-goi)
 - [Linkedin](https://www.linkedin.com/in/tiago-temporin-46533a24/)
 - [Medium](https://medium.com/@_ttemporin)
 
-OR
-
-**reach me at:** *hello [at] ttemporin.dev*
-
 <!--
 **tiaguinho/tiaguinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
