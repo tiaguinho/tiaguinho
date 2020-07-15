@@ -1,6 +1,4 @@
-### Hi there, I'm Tiago 👋
-
-Tech Lead at [E-goi](https://github.com/E-goi).
+## Hi there, I'm Tiago 👋
 
 ### 💻 Working on
 
@@ -15,10 +13,14 @@ Tech Lead at [E-goi](https://github.com/E-goi).
 
 ### 🌎 Other places to find me
 
-- [Site](https://ttemporin.dev/)
-- [Twitter](https://twitter.com/_ttemporin)
-- [Linkedin](https://www.linkedin.com/in/tiago-temporin-46533a24/)
-- [Medium](https://medium.com/@_ttemporin)
+<p align="center">
+
+    <a href="https://ttemporin.dev/" title="Site"><img src="https://github.com/tiaguinho/tiaguinho/blob/master/assets/img/rss.png" alt="Site" /></a>
+    <a href="https://twitter.com/_ttemporin" title="Twitter"><img src="https://github.com/tiaguinho/tiaguinho/blob/master/assets/img/twitter.png" alt="Twitter" /></a>
+    <a href="https://www.linkedin.com/in/tiago-temporin-46533a24/" title="Linkedin"><img src="https://github.com/tiaguinho/tiaguinho/blob/master/assets/img/linkedin.png" alt="Linkedin" /></a>
+    <a href="https://medium.com/@_ttemporin" title="Medium"><img src="https://github.com/tiaguinho/tiaguinho/blob/master/assets/img/medium.png" alt="Medium" /></a>
+
+</p>
 
 <!--
 **tiaguinho/tiaguinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
