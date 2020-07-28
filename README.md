@@ -9,7 +9,7 @@
 ### 📚 Learning/reading
 
 - [Classic Computer Science Problems in Python](https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/1617295981)
-- [Originals - How Non-Conformists Move the World](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/014312885X)
+- [The Intelligent Investor](https://www.amazon.com.br/Intelligent-Investor-REV-Ed/dp/0060555661)
 
 ### 🌎 Other places to find me
 
