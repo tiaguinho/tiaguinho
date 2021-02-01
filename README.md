@@ -8,8 +8,11 @@
 
 ### 📚 Learning/reading
 
-- [Classic Computer Science Problems in Python](https://www.amazon.com/Classic-Computer-Science-Problems-Python/dp/1617295981)
-- [The Intelligent Investor](https://www.amazon.com.br/Intelligent-Investor-REV-Ed/dp/0060555661)
+- [Classic Computer Science Problems in Python](https://amzn.to/3tk2ImG)
+- [Thinking, Fast and Slow](https://amzn.to/3ao30k2)
+- [Site Reliability Engineering: How Google Runs Production
+  Systems](https://amzn.to/2MorAcw)
+<img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=8542216814&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=ttemporin-20" />](https://www.amazon.com.br/gp/product/8542216814/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8542216814&linkCode=as2&tag=ttemporin-20&linkId=c2d0dc2f42de6b681df7a92d86c121d7)
 
 ### 🌎 Other places to find me
 
