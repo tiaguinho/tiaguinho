@@ -21,7 +21,7 @@
 [<img src="https://github.com/tiaguinho/tiaguinho/blob/master/assets/img/rss.png" alt="Site" width="32" />](https://ttemporin.dev)
 [<img src="https://github.com/tiaguinho/tiaguinho/blob/master/assets/img/twitter.png" alt="Twitter" width="32" />](https://twitter.com/_ttemporin)
 [<img src="https://github.com/tiaguinho/tiaguinho/blob/master/assets/img/linkedin.png" alt="Linkedin" width="32" />](https://www.linkedin.com/in/tiago-temporin-46533a24/)
-[<img src="https://github.com/tiaguinho/tiaguinho/blob/master/assets/img/medium.png" alt="Medium" width="32" />](https://medium.com/@_ttemporin)
+[<img src="https://github.com/tiaguinho/tiaguinho/blob/master/assets/img/medium.png" alt="Medium" width="32" />](https://ttemporin.medium.com)
 
 </p>
 
